@@ -1,0 +1,1 @@
+A lightweight, zero-dependency state machine framework in Python that supports explicit transition definitions with validation, state entry/exit callbacks, and optional guard conditions. Perfect for modelling workflows, UI states, or protocol logic without external libraries.
